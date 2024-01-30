@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Python
 - 📫 How to reach me ...email
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I want to learn Python
 
 <!---
 msmith752752/msmith752752 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
