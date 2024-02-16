@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Python
-- 📫 How to reach me ...email
+- 📫 How to reach me ...msmith752@hotmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I want to learn Python
 
